@@ -1,4 +1,4 @@
-**##SCHOOL MANAGEMENT SYSTEM**
+# **SCHOOL MANAGEMENT SYSTEM**
 
 The School Management System is a web-based application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It aims to streamline school management, class organization, and facilitate communication between students, teachers, and administrators.
 
@@ -16,7 +16,7 @@ The School Management System is a web-based application built using the MERN (Mo
 
 - **Communication:** Users can communicate effortlessly through the system. Teachers can send messages to students and vice versa, promoting effective communication and collaboration.
 
-# **Technologies Used**
+**Technologies Used**
 
 - Frontend: React.js, Material UI, Redux
 - Backend: Node.js, Express.js
