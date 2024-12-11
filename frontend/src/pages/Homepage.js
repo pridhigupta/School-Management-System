@@ -16,11 +16,12 @@ const Homepage = () => {
                 <Grid item xs={12} md={6}>
                     <StyledPaper elevation={3}>
                         <StyledTitle>
+                            <br />
                             Welcome to
                             <br />
-                            School Management
+                            StreamVerse!!!
                             <br />
-                            System
+                            
                         </StyledTitle>
                         <StyledText>
                             Streamline school management, class organization, and add students and faculty.
